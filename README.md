@@ -88,7 +88,7 @@ pip install -r requirements.txt
 ├── app.py                 
 ├── NIDS_Model.ipynb       
 ├── xgb_nids_model.pkl     
-├── Darshini_ppt.pdf       
+├── Project_ppt.pdf       
 ├── README.md              
 ```
 
